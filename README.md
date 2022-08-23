@@ -1,4 +1,4 @@
-# Severless Ephemeral DevX/CI Environment
+# K8s Ephemeral DevX/CI Environment
 
 - gitpod
 - hashicorp
